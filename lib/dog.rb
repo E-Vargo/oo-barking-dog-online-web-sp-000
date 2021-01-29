@@ -13,3 +13,8 @@ puts "woof!"
 end
 
 end
+
+
+doggo = Dog.new
+
+doggo.bark
